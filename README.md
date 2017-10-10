@@ -6,4 +6,4 @@ All the pieces are hosted for free and the sources are public.
 
 Minero is a PoC and is the result of a self-hatred fuelled narcotics induced 48hs-straight coding extravaganza held during a rainy weekend in October, 2017. Don’t expect this code to be rock solid.
 
-If you happen to find any bugs, or if you think I might be breaking some ToS, reach me out [@juancazala](https://twiiter.com/juancazala).
+If you happen to find any bugs, or if you think I might be breaking some ToS, reach me out [@juancazala](https://twitter.com/juancazala).
